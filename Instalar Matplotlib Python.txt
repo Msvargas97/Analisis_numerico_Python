@@ -1,0 +1,2 @@
+abrir ventana de comandos como administrador y escribir:
+pip install matplotlib
